@@ -1,5 +1,5 @@
 //Thanks to YASH NARODIA for changing the code :P
-//Repository CREATED BY NIGHTFURY
+//Repository BY NIGHTFURY
 
 #include <stdio.h>
 int main() {
